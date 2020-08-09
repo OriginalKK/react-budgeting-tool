@@ -1,0 +1,34 @@
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    height: 100%;
+}
+
+.mainDiv {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 100%
+}
+
+.mainContentDiv {
+    position:absolute;
+    top: 64px;
+    bottom: 0;
+    width: 100%;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.nav-bar-link {
+    color: black;
+}
+
+.active {
+    color: tomato;
+}
